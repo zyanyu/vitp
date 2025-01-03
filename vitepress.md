@@ -37,8 +37,8 @@ npm run docs:preview //预览
   //将 USERNAME 和 REPO_NAME 替换为自己的 GitHub 用户名和仓库名称。
 
   查看文件状态：git status[filename]
-  
-  最后 git push -u origin master 就可以了
+
+  最后 git push -u origin master //如果分支在master上就这样写
 ````
 
 
